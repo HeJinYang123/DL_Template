@@ -1,0 +1,4 @@
+./output/*
+./Datasets
+*.pth
+.idea
